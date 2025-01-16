@@ -113,3 +113,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - OpenAI's Whisper model for speech recognition
 - Facebook's BART model for text summarization
 - YouTube Data API for video metadata
+
+
+https://colab.research.google.com/drive/1pn4lCErC9Jp8YXieG5s2k3ZHouuK61Dr?usp=sharing
